@@ -1,1 +1,3 @@
-go first project
+go 첫 번재 프로젝트.
+
+https://kr.indeed.com 사이트에 접속해서 원하는 검색어로 검색이 되는 채용공고를 모두 추출하여 파일로 저장한다.
